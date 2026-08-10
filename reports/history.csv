@@ -1,0 +1,2 @@
+run_date,records_scanned,total_defects,defect_rate_pct,critical,high,medium,low,processing_seconds,sla_hours_target,sla_met
+2026-08-10,4750,980,20.632,160,378,442,0,0.374,4,True
