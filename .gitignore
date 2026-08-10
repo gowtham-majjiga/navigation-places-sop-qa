@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+
+# Raw datasets and per-run JSON logs are regenerated on demand
+data/raw/*.csv
+logs/*.jsonl
+
+!data/raw/.gitkeep
+!logs/.gitkeep
